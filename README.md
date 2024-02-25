@@ -5,8 +5,12 @@ MDX-Lib
 - :package: [NPM](https://www.npmjs.com/package/@mdx-lib/chakra)
 
 Eslint-plugin: todo-comment
-- :octocat: [Github](https://github.com/ToyB0x/eslint-plugin-todo-comment)  
+- :octocat: [Github](https://github.com/ToyB0x/eslint-plugins/tree/main/packages/todo-comment)  
 - :package: [NPM](https://www.npmjs.com/package/eslint-plugin-todo-comment)
+
+Eslint-plugin: call-func
+- :octocat: [Github](https://github.com/ToyB0x/eslint-plugins/tree/main/packages/call-func)  
+- :package: [NPM](https://www.npmjs.com/package/eslint-plugin-call-func)
 
 <!--
 **ToyB0x/ToyB0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
