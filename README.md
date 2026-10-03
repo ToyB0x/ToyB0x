@@ -1,11 +1,14 @@
-# About Me (Blog)
+# About Me
 
+## X (Twitter)
+- [ToyB0x_](https://x.com/ToyB0x_)
+
+## Blog
 - :house: [ToyB0x.me](https://toyb0x.me)
 
-# OSS Works
 
-Readx
-- :octocat: [Repo](https://github.com/ToyB0x/in-put.dev)
+
+# OSS Works
 
 MDX-Lib
 - :octocat: [Repo](https://github.com/mdx-lib/mdx-lib)  
